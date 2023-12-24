@@ -1,0 +1,6 @@
+Library simulator 
+- Be able to add books to the library
+- Be able to remove books from the library / check out books 
+- Be able to search books from the library 
+
+- Extra features should be showing whats books are trending 
